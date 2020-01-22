@@ -6,6 +6,9 @@
   - Debian/Ubuntu/etc `sudo apt install chromium-browser`
   - MacOS `brew cask install chromium`
 
+## Communication
+- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - open source email client
+
 ## Development
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 
