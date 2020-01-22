@@ -14,6 +14,7 @@
 
 ## Images
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
+- [Inkscape](https://inkscape.org/) - vector drawing
 
 ## Mobile Phone (Android)
 - [F-Droid](https://f-droid.org/en/) - open source alternative to Play Store
