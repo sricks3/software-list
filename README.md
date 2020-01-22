@@ -11,6 +11,7 @@
 
 ## Development
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
+- [Hugo](https://gohugo.io/) - static site generator
 
 ## Images
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
