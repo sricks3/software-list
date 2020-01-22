@@ -10,6 +10,7 @@
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 
 ## Security/Privacy
+- [Bitwarden](https://bitwarden.com/) - open source password manager
 - [Nmap](https://nmap.org/) - network security scanner
   - [Zenmap](https://nmap.org/zenmap/) - GUI
   - Debian/Ubuntu/etc `sudo apt install zenmap`
