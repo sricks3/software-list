@@ -1,4 +1,4 @@
-# app-list
+# Software and Services I Use
 
 ## Browsers
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)** - open source web browser
