@@ -3,6 +3,7 @@
 ## Browsers
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Chromium](https://www.chromium.org/)
+
 `sudo apt install chromium-browser`
 
 
