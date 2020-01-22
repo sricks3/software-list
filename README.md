@@ -12,6 +12,9 @@
 ## Development
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 
+## Images
+- [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
+
 ## Mobile Phone (Android)
 - [F-Droid](https://f-droid.org/en/) - open source alternative to Play Store
 - [KDE Connect](https://community.kde.org/KDEConnect) - desktop/mobile phone integration
