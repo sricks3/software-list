@@ -19,10 +19,11 @@
 - [Krita](https://krita.org/en/) - digital painting
 
 ## Mobile Phone (Android)
+- [AntennaPod](https://antennapod.org/) - podcasts
+  - [on F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)
 - [F-Droid](https://f-droid.org/en/) - open source alternative to Play Store
 - [KDE Connect](https://community.kde.org/KDEConnect) - desktop/mobile phone integration
-  - [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
-  - [Play Store](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US)
+  - [on F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 
 ## Security/Privacy
 - [Bitwarden](https://bitwarden.com/) - open source password manager
