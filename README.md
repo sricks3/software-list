@@ -11,6 +11,7 @@
 
 ## Security/Privacy
 - [Bitwarden](https://bitwarden.com/) - open source password manager
+- [privateinternetaccess](https://www.privateinternetaccess.com/) - VPN
 - [Nmap](https://nmap.org/) - network security scanner
   - [Zenmap](https://nmap.org/zenmap/) - GUI
   - Debian/Ubuntu/etc `sudo apt install zenmap`
