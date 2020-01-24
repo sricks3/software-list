@@ -18,6 +18,7 @@
 
 ## Games
 - [Kerbal Space Program](https://www.kerbalspaceprogram.com/) - space flight and orbital physics simulation with a sense of humor
+- [SuperTuxKart](https://supertuxkart.net/Main_Page) - open source game in the spirit of Mario Kart
 
 ## Images
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
