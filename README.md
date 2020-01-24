@@ -17,6 +17,7 @@
 - [Hugo](https://gohugo.io/) - static site generator
 
 ## Games
+- [Endless Sky](https://endless-sky.github.io/) - open source space trading game in the spirit of Escape Velocity
 - [Kerbal Space Program](https://www.kerbalspaceprogram.com/) - space flight and orbital physics simulation with a sense of humor
 - [SuperTuxKart](https://supertuxkart.net/Main_Page) - open source game in the spirit of Mario Kart
 
