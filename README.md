@@ -16,6 +16,9 @@
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 - [Hugo](https://gohugo.io/) - static site generator
 
+## Games
+- [Kerbal Space Program](https://www.kerbalspaceprogram.com/) - space flight and orbital physics simulation with a sense of humor
+
 ## Images
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
 - [Inkscape](https://inkscape.org/) - vector drawing
