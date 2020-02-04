@@ -31,6 +31,10 @@
 
 ## Security/Privacy
 - [Bitwarden](https://bitwarden.com/) - open source password manager
+- [Keybase](https://keybase.io/) - publicly auditable key directory
+  - maps social media identities to encryption keys
+  - also offers E2EE chat and git-based cloud storage
+  - [me](https://keybase.io/sricks3)
 - [Nmap](https://nmap.org/) - network security scanner
   - [Zenmap](https://nmap.org/zenmap/) - GUI
   - Debian/Ubuntu/etc `sudo apt install zenmap`
