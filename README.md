@@ -2,7 +2,7 @@
 
 ## Audio Production
 - [Ardour](https://ardour.org/) - open source DAW
-- [Audacity](https://www.audacityteam.org/) - open source audio editor
+- [Audacity](https://www.audacityteam.org/) - open source sound recorder and editor
 
 ## Browsers
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)** - open source web browser
@@ -20,6 +20,11 @@
 ## Development
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 - [Hugo](https://gohugo.io/) - static site generator
+
+## Games
+- [Endless Sky](https://endless-sky.github.io/) - open source space trading game in the spirit of Escape Velocity
+- [Kerbal Space Program](https://www.kerbalspaceprogram.com/) - space flight and orbital physics simulation with a sense of humor
+- [SuperTuxKart](https://supertuxkart.net/Main_Page) - open source game in the spirit of Mario Kart
 
 ## Images
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
