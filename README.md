@@ -1,5 +1,9 @@
 # Software and Services I Use
 
+## Audio Production
+- [Ardour](https://ardour.org/) - open source DAW
+- [Audacity](https://www.audacityteam.org/) - open source audio editor
+
 ## Browsers
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)** - open source web browser
 - [Chromium](https://www.chromium.org/) - open source web browser
