@@ -5,6 +5,7 @@
 - [Chromium](https://www.chromium.org/) - open source web browser
   - Debian/Ubuntu/etc `sudo apt install chromium-browser`
   - MacOS `brew cask install chromium`
+- [Tor Browser](https://www.torproject.org/download/) - Firefox fork for browsing the Tor network
 
 ## Business
 - [Clockify](https://clockify.me/) - time tracking
@@ -35,6 +36,8 @@
   - Debian/Ubuntu/etc `sudo apt install zenmap`
   - MacOS `brew cask install zenmap`
 - [privateinternetaccess](https://www.privateinternetaccess.com/) - VPN
+- [Tor](https://www.torproject.org/) - anonymity network
+  - use with [Tor Browser](https://www.torproject.org/download/)
 
 ## System
 - [htop](https://hisham.hm/htop/) - interactive process viewer (improved top)
