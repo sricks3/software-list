@@ -44,10 +44,6 @@
   - maps social media identities to encryption keys
   - also offers E2EE chat and git-based cloud storage
   - [me](https://keybase.io/sricks3)
-- [Nmap](https://nmap.org/) - network security scanner
-  - [Zenmap](https://nmap.org/zenmap/) - GUI
-  - Debian/Ubuntu/etc `sudo apt install zenmap`
-  - MacOS `brew cask install zenmap`
 - [privateinternetaccess](https://www.privateinternetaccess.com/) - VPN
 - [Tor](https://www.torproject.org/) - anonymity network
   - use with [Tor Browser](https://www.torproject.org/download/)
@@ -57,5 +53,11 @@
 - [Kubuntu](https://kubuntu.org/) - Linux OS, Ubuntu flavor built around the Plasma Desktop and KDE apps
 - [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
 - [vim](https://www.vim.org/) - vi improved
+
+## Whitehat
+- [Nmap](https://nmap.org/) - network security scanner
+  - [Zenmap](https://nmap.org/zenmap/) - GUI
+  - Debian/Ubuntu/etc `sudo apt install zenmap`
+  - MacOS `brew cask install zenmap`
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
