@@ -55,6 +55,7 @@
 - [vim](https://www.vim.org/) - vi improved
 
 ## Whitehat
+- [Kali Linux](https://www.kali.org/) - Linux distro designed for pentesting
 - [Nmap](https://nmap.org/) - network security scanner
   - [Zenmap](https://nmap.org/zenmap/) - GUI
   - Debian/Ubuntu/etc `sudo apt install zenmap`
