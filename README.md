@@ -47,6 +47,8 @@
 - [privateinternetaccess](https://www.privateinternetaccess.com/) - VPN
 - [Tor](https://www.torproject.org/) - anonymity network
   - use with [Tor Browser](https://www.torproject.org/download/)
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - open source disk encryption
+  - fork of [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt)
 
 ## System
 - [htop](https://hisham.hm/htop/) - interactive process viewer (improved top)
