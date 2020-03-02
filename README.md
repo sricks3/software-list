@@ -52,10 +52,11 @@
   - fork of [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt)
 
 ## System
+- [emacs](https://www.gnu.org/software/emacs/) - I'm just learning/trying it out right now. super powerful, extensible text editor
 - [htop](https://hisham.hm/htop/) - interactive process viewer (improved top)
 - [Kubuntu](https://kubuntu.org/) - Linux OS, Ubuntu flavor built around the Plasma Desktop and KDE apps
 - [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
-- [vim](https://www.vim.org/) - vi improved
+- [vim](https://www.vim.org/) - vi improved, terminal text editor
 
 ## Whitehat
 - [Kali Linux](https://www.kali.org/) - Linux distro designed for pentesting
