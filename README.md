@@ -14,6 +14,9 @@
 ## Business
 - [Clockify](https://clockify.me/) - time tracking
 
+## Cloud
+- [rclone](https://rclone.org/) - rsync for cloud storage
+
 ## Communication
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - open source email client
 
