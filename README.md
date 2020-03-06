@@ -45,6 +45,9 @@
 - [KDE Connect](https://community.kde.org/KDEConnect) - desktop/mobile phone integration
   - [on F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 
+## Productivity
+- [Habitica](https://habitica.com/) - gamified habit tracking and task management
+
 ## Security/Privacy
 - [Bitwarden](https://bitwarden.com/) - open source password manager
 - [Keybase](https://keybase.io/) - publicly auditable key directory
