@@ -4,6 +4,7 @@
 - [Ardour](https://ardour.org/) - open source DAW
 - [Audacity](https://www.audacityteam.org/) - open source sound recorder and editor
 - [Hydrogen](http://hydrogen-music.org/) - open source drum machine
+- [MuseScore](https://musescore.org/en) - open source music notation
 - [Reaper](https://www.reaper.fm/) - highly customizable and extensible DAW
 
 ## Browsers
