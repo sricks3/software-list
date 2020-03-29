@@ -83,6 +83,10 @@
 - [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
 - [vim](https://www.vim.org/) - vi improved, terminal text editor
 
+## Video Production
+- [DaVinci Resovle](https://www.blackmagicdesign.com/products/davinciresolve/) - commercial video editor by Blackmagicdesign
+- [kdenlive](https://kdenlive.org/en/) - open source non-linear video editor
+
 ## Whitehat
 - [Kali Linux](https://www.kali.org/) - Linux distro designed for pentesting
 - [Nmap](https://nmap.org/) - network security scanner
