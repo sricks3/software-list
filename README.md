@@ -3,6 +3,7 @@
 ## Audio Production
 - [Ardour](https://ardour.org/) - open source DAW
 - [Audacity](https://www.audacityteam.org/) - open source sound recorder and editor
+- [Reaper](https://www.reaper.fm/) - highly customizable and extensible DAW
 
 ## Browsers
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)** - open source web browser
