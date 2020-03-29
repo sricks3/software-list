@@ -29,6 +29,9 @@
 ## Games
 - [Endless Sky](https://endless-sky.github.io/) - open source space trading game in the spirit of Escape Velocity
 - [Kerbal Space Program](https://www.kerbalspaceprogram.com/) - space flight and orbital physics simulation with a sense of humor
+- [Lutris](https://lutris.net/) - open source gaming platform for Linux
+  - game library management
+  - community-provided install scripts for both native and non-native games
 - [SuperTuxKart](https://supertuxkart.net/Main_Page) - open source game in the spirit of Mario Kart
 
 ## Images
