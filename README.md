@@ -48,6 +48,7 @@
 
 ## Productivity
 - [Habitica](https://habitica.com/) - gamified habit tracking and task management
+- [Joplin](https://joplinapp.org/) - open source note taking app with cloud syncing
 
 ## Security/Privacy
 - [Bitwarden](https://bitwarden.com/) - open source password manager
