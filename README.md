@@ -47,6 +47,7 @@
   - [on F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - open source alternative to Play Store (same repository)
 - [F-Droid](https://f-droid.org/en/) - open source alternative to Play Store (different respoitories)
+- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite&hl=en) - kind of like rclone for Android (haven't found anything better)
 - [KDE Connect](https://community.kde.org/KDEConnect) - desktop/mobile phone integration
   - [on F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 
