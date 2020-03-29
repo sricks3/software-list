@@ -3,6 +3,7 @@
 ## Audio Production
 - [Ardour](https://ardour.org/) - open source DAW
 - [Audacity](https://www.audacityteam.org/) - open source sound recorder and editor
+- [Hydrogen](http://hydrogen-music.org/) - open source drum machine
 - [Reaper](https://www.reaper.fm/) - highly customizable and extensible DAW
 
 ## Browsers
