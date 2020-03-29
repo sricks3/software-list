@@ -35,6 +35,8 @@
 - [SuperTuxKart](https://supertuxkart.net/Main_Page) - open source game in the spirit of Mario Kart
 
 ## Images
+- [darktable](https://www.darktable.org/) - open source photography workflow app and raw developer
+  - replacement for Adobe Lightroom
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program
 - [Inkscape](https://inkscape.org/) - vector drawing
 - [Krita](https://krita.org/en/) - digital painting
