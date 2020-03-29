@@ -23,6 +23,8 @@
 - [Riot](https://about.riot.im/) - open source group communication solution using the Matrix protocol
 
 ## Design
+- [Blender](https://www.blender.org/) - open source 3D model creation
+- [FreeCAD](https://www.freecadweb.org/) - open source 3D CAD
 - [Sweet Home 3D](http://www.sweethome3d.com/) - open source interior design application
 
 ## Development
