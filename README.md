@@ -22,6 +22,9 @@
 - [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) - open source email client
 - [Riot](https://about.riot.im/) - open source group communication solution using the Matrix protocol
 
+## Design
+- [Sweet Home 3D](http://www.sweethome3d.com/) - open source interior design application
+
 ## Development
 - [Atom](https://atom.io/) - extensible text editor with git/GitHub integration
 - [Hugo](https://gohugo.io/) - static site generator
